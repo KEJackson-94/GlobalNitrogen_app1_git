@@ -3,12 +3,11 @@ This is a draft application currently pushed to shiny.io (https://environ-sci-an
 
 Folder Structure:
 
-"~\\GlobalNitrogen_app1_git\\"
+-"~\\GlobalNitrogen_app1_git\\"
 	GlobalNStudy_DataCleaning.R 
 	ISO.csv
 	Zhang_et_al_2021.xlsx
-	
-	"~\\GlobalNitrogen_app1_git\\n_app\\"
+	-"~\\GlobalNitrogen_app1_git\\n_app\\"
         	app.R
         	GlobalNStudyFinal_Amax.csv
 	        GlobalNStudyFinal_Amed.csv
