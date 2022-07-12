@@ -17,7 +17,7 @@ GlobalNStudyFinal_Amed.csv
 
 GlobalNStudyFinal_Amin.csv
 
-####
+----
 Descriptions of R codes contained in this zip folder:
 GlobalNStudy_DataCleaning.R - I use this to clean and prepare data based on Zhang_et_al_2021.xlsx which is the 
 raw supplemental data from Zhang et al., 2021. This includes renaming country names and linking names with iso 
@@ -27,7 +27,7 @@ and median area(GlobalNStudyFinal_Amed.csv). These are the three csv files neede
 
 app.R – code that contains server and ui functions (shiny app code).
 
-####
+----
 Descriptions of .csv and xlsx files contained in this zip folder:
 ISO.csv – linking ISO codes to country names so that we can map using plot_geo(). These codes were taken from 
 github user, ‘lukes,’ public repository (https://github.com/lukes/ISO-3166-Countries-with-Regional-
@@ -44,7 +44,7 @@ GlobalNStudy_DataCleaning.R where input and output values are normalized by medi
 GlobalNStudyFinal_Amin.csv - long-format data frames derived from Zhang_et_al_2021.xlsx using 
 GlobalNStudy_DataCleaning.R where input and output values are normalized by min cropland area
 
-####
+----
 References
 Zhang, X., Zou, T., Lassaletta, L. et al. Quantification of global and national nitrogen budgets for crop production. 
 Nat Food 2, 529–540 (2021). https://doi.org/10.1038/s43016-021-00318-5
