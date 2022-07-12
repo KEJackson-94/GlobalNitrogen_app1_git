@@ -1,7 +1,7 @@
 # GlobalNitrogen_app1_git
 This is a draft application currently pushed to shiny.io (https://environ-sci-and-policy-visualizations.shinyapps.io/n_app/) that enables users to choose the input/output N benchamrk of interest to view changes by countries over time. 
 
-####
+----
 Folder Structure:
 GlobalNStudy_DataCleaning.R 
 
